@@ -12,3 +12,5 @@ This app utilizes ReactJS, Wepback, Babel and various NPM packages to pit two gi
 [Github Battles](https://git-battles.herokuapp.com/)
 
 ##Overview
+
+![example](public/gitbattles.gif)
